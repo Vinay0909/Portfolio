@@ -202,13 +202,13 @@ async function fetchData(type = "skills") {
                 "code": "https://github.com/Vinay0909/DiabeticRetinopathyDetection"
               }
             },{
-                "name": "Worker Finder",
-                "desc": "Application that could find plumber,electrician and other within area",
-                "image": "worker",
+                "name": "Player Analysis for Multi-Category",
+                "desc": "Sports Player analysis based on various categories",
+                "image": "Sports",
                 "category": "visual",
                 "links": {
-                  "view": "https://github.com/Vinay0909/Worker-Job",
-                  "code": "https://github.com/Vinay0909/Worker-Job"
+                  "view": "https://github.com/Vinay0909/PremeirLeague-DataAnalytics",
+                  "code": "https://github.com/Vinay0909/PremeirLeague-DataAnalytics"
                 }
               },{
                 "name": "Ecommerce Data Analysis",
