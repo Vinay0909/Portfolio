@@ -203,7 +203,7 @@ async function fetchData(type = "skills") {
               }
             },{
                 "name": "Player Analysis for Multi-Category",
-                "desc": "Sports Player analysis based on various categories",
+                "desc": "Sports Player analysis based on various specifications",
                 "image": "Sports",
                 "category": "visual",
                 "links": {
