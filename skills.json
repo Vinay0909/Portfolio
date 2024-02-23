@@ -19,12 +19,6 @@
         "name" : "Spring Boot",
         "icon" : "https://icons8.com/icon/90519/spring-boot"
     },{
-        "name" : "jQuery",
-        "icon" : "https://icons8.com/icon/UosOoyB3CzTS/jquery-is-a-javascript-library-designed-to-simplify-html"
-    },{
-        "name" : "Pandas",
-        "icon" : "https://pandas.pydata.org/static/img/pandas_white.svg"
-    },{
         "name" : "HTML",
         "icon" : "https://icons8.com/icon/20909/html-5"
     },{
@@ -60,28 +54,5 @@
     },{
         "name" : "Apache Kafka",
         "icon" : "https://icons8.com/icon/xgChbMh3wYDY/apache-a-free-and-open-source-cross-platform-web-server-software"
-    },{
-        "name" : "NumPy",
-        "icon" : "https://icons8.com/icon/aR9CXyMagKIS/numpy"
-    },
-    {
-        "name": "Tableau",
-        "icon": "https://img.icons8.com/color/48/tableau-software.png"
-    },
-    {
-        "name": "Visio",
-        "icon": "https://img.icons8.com/color/48/microsoft-visio.png"
-    },
-    {
-        "name": "VS Code",
-        "icon": " https://img.icons8.com/fluency/48/visual-studio.png"
-    },
-    {
-        "name": "Salesforce",
-        "icon": "https://img.icons8.com/color/48/salesforce.png"
-    },
-    {
-        "name": "Leadership",
-        "icon": "https://img.icons8.com/color/48/meeting-room.png" 
     }
 ]
