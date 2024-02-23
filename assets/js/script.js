@@ -116,12 +116,6 @@ async function fetchData(type = "skills") {
                 "name" : "Spring",
                 "icon" : "https://img.icons8.com/color/48/spring-logo.png"
             },{
-                "name" : "jQuery",
-                "icon" : "https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-filled-tal-revivo.png"
-            },{
-                "name" : "Pandas",
-                "icon" : "https://img.icons8.com/color/48/pandas.png"
-            },{
                 "name" : "HTML",
                 "icon" : "https://img.icons8.com/color/48/html-5--v1.png"
             },{
@@ -157,37 +151,6 @@ async function fetchData(type = "skills") {
             },{
                 "name" : "Apache Kafka",
                 "icon" : "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png"
-            },{
-                "name" : "NumPy",
-                "icon" : "https://img.icons8.com/color/48/numpy.png"
-            },
-            {
-                "name": "Tableau",
-                "icon": "https://img.icons8.com/color/48/tableau-software.png"
-            }, 
-            {
-                "name": "PowerBI",
-                "icon": "https://img.icons8.com/color/48/power-bi.png"
-            },
-            {
-                "name": "Visio",
-                "icon": "https://img.icons8.com/color/48/microsoft-visio.png"
-            },
-            {
-                "name": "VS Code",
-                "icon": " https://img.icons8.com/fluency/48/visual-studio.png"
-            },
-            {
-                "name": "WordPress",
-                "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-            },  
-            {
-                "name": "Salesforce",
-                "icon": "https://img.icons8.com/color/48/salesforce.png"
-            },
-            {
-                "name": "Leadership",
-                "icon": "https://img.icons8.com/color/48/meeting-room.png" 
             }
         ]
         :
